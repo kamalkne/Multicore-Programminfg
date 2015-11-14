@@ -1,0 +1,22 @@
+{
+  "name": "multicore_programming",
+  "version": "1.0.0",
+  "description": "Utilize multiple cores of CPU using nodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamalkne/Multicore-Programming.git"
+  },
+  "author": "Kamal Kokne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kamalkne/Multicore-Programming/issues"
+  },
+  "homepage": "https://github.com/kamalkne/Multicore-Programming#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
